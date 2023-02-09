@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+ int x = 0;
+ num / = 10;
+ ans + = y * pow(8,x);
+ ++x;
+}
+ return ans;
+ int main()
+{
+ int num,
+ printf("enter octal number");
+ scanf("%d",&num);
+ printf("\n");
+ printf("decimal number is %d,octal to decimal (num));
+ return(0)
+}

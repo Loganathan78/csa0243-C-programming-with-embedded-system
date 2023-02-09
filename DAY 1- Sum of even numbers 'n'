@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <conio.h>
+int main()
+{
+  int a,n;
+  int sum=0;
+  printf("enter a given number");
+  scanf("%d,&n");
+ while(n!=0)
+{
+   a=n%10;
+ if (a%2==0)
+  {
+   sum = sum + a;
+  }
+ else
+  {
+   sum = sum +0;
+  }
+   n=n/10;
+}
+   printf("sum of even digit is %d",sum);
+}
